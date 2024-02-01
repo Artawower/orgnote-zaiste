@@ -25,5 +25,6 @@ export const manifest = {
   version: "0.0.1",
   description: "Zaiste theme for OrgNote!",
   keywords: ["ui", "theme"], //
-  repo: "https://github.com/artawower/orgnote-zaiste",
+  sourceUrl: "https://github.com/artawower/orgnote-zaiste",
+  sourceType: 'git',
 };
